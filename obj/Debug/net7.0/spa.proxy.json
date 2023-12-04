@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44456",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Uni Y3\\Fall\\ECE 356\\Python shit\\ECE356_Demo\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
